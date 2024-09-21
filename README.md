@@ -57,4 +57,4 @@ The dataset was sourced from vgchartz.com and includes sales data for games that
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/Tableau-Retail-Sales-Dashboard.git
-![output](https://github.com/user-attachments/assets/96e4d41c-07ec-400b-83c8-160f95889b30)
+![output](https://github.com/user-attachments/assets/96e4d41c-07ec-400b-83c8-160f95889b30){: width="400" height="300"}
